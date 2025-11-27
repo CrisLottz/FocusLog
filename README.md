@@ -1,4 +1,4 @@
-# 🧠 Nudge: The Conscious Productivity Tracker
+# 🧠 Nudge: The Conscious Productivity Tracker.
 
 **Nudge** is a minimal, cross-platform, "always-on-top" desktop application for obsessive productivity users who want to track their **real effort**, not just elapsed time.
 
